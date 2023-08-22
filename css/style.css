@@ -3,22 +3,27 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 .header {
     background-color: black;
+    display: flex;
+    flex-wrap: wrap;
 }
-
 .logo {
-    width: 150px;
+    width: 90px;
     height: auto;
 }
-
-.menu li {
-    display: inline;
+.menu{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    list-style: none;
 }
 
 .link {
     text-decoration: none;
     padding: 5px;
+    color: white;
+}
+.barra{
     color: white;
 }
