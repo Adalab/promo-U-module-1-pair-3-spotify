@@ -34,6 +34,10 @@ a {
     font-style: arial;
     padding-top: 250px;
     padding-bottom: 250px;
+    margin: right 200px; 
+    text-align: center; 
+    
+       
 }
 .button{
     text-decoration: none;
@@ -42,9 +46,11 @@ a {
     border-radius: 30px;
     background-color: #26B75A;
     padding-left: 100px; 
-    padding-right: 100px;
+    padding-right: 150px;
     padding-top: 10px;
-    padding-bottom: 10px;
+    position: relative;
+    padding: 15px 170px;
+  
 }
 .menu{
     display: none;
