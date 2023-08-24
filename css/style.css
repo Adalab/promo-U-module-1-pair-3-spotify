@@ -14,7 +14,6 @@
     height: auto;
 }
 .seccion-azul{
-    background-image: url("../images/premium_dancer.png");
     background-repeat: no-repeat;
     background-color:#529CF1;
     color: white;
@@ -33,12 +32,8 @@
     padding-top: 15px;
     padding-bottom: 15px;
 }
-
 .menu{
-    display: flex;
-    align-items: center;
-    margin-left: auto;
-    list-style: none;
+    display: none;
 }
 .link {
     text-decoration: none;
@@ -48,3 +43,13 @@
 .barra{
     color: white;
 }
+
+/* background-image: url("../images/premium_dancer.png");
+va a ir con el meta de tablet y pc */
+
+/* .menu{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    list-style: none;
+} */
