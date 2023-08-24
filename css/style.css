@@ -7,11 +7,8 @@
     font-family: "Gotham";
     scr: url('./css/fuentes/Gotham-Black.woff');
 }
-.gotham {
-    font-family: 'Gotham','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
 .body {
-    font-family: 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 .header {
     background-color: black;
@@ -23,6 +20,13 @@
     width: 90px;
     height: auto;
 }
+h1 {
+    line-height: 100px;
+}
+a {
+    line-height: 50px;
+}
+
 .seccion-azul{
     background-repeat: no-repeat;
     background-color:#529CF1;
@@ -30,19 +34,17 @@
     font-style: arial;
     padding-top: 250px;
     padding-bottom: 250px;
-    font-family: gotham;
 }
 .button{
     text-decoration: none;
     text-transform: uppercase;
-    width: 100px;
     color: white;
     border-radius: 30px;
     background-color: #26B75A;
-    padding-left: 30px; 
-    padding-right: 30px;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-left: 100px; 
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .menu{
     display: none;
