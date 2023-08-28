@@ -69,10 +69,14 @@ a {
 .barra{
     color: white;
 }
-.seccion-blanca{
+.title2{
+align-items: center;
+display: flex;
+justify-content: center;
+}
+.li-white{
     display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
+ 
 
 }
 .img-white{
