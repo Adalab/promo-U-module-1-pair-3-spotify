@@ -69,7 +69,16 @@ a {
 .barra{
     color: white;
 }
+.seccion-blanca{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 
+}
+.img-white{
+    width: 100px;
+    height: 100px;
+}
 /* background-image: url("../images/premium_dancer.png");
 va a ir con el meta de tablet y pc */
 
