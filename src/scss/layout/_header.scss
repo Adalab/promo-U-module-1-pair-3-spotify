@@ -1,6 +1,23 @@
+
 .header {
-  background-color: $color-black;
+  background-color: black;
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   padding: 10px;
+}
+
+.logo {
+    width: 90px;
+    height: auto;
+}
+a{
+  line-height: 50px;
+}
+.menu{
+  display: none;
+  }
+.link{
+  text-decoration: none;
+  padding: 5px;
+ color: white;
 }
