@@ -1,0 +1,24 @@
+.title2{
+align-items: center;
+display: flex;
+justify-content: center;
+}
+.li-white{
+    // display: flex;
+}
+.img-white{
+    width: 100px;
+    height: 100px;
+}
+
+.texto-imagenes {
+    // display: grid;
+    // grid-template-columns: 1fr;
+    // grid-template-rows: repeat(8) 1fr;
+}
+.first {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+
+}

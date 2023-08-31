@@ -1,30 +1,10 @@
-@import "core/reset.scss";
-@import "core/variables.scss";
-@import "layout/header.scss";
+@import "core/reset";
+@import "core/variables";
+@import "layout/header";
 @import "layout/sectionBlue";
-
- .img-white{
-
-}
+@import "layout/sectionWhite";
 
 
-
-// .barra{
-//     color: white;
-// }
-// .title2{
-// align-items: center;
-// display: flex;
-// justify-content: center;
-// }
-// .li-white{
-//     display: flex;
-
-// }
-// .img-white{
-//     width: 100px;
-//     height: 100px;
-// // }
 // /background-image: url("../images/premium_dancer.png");
 // va a ir con el meta de tablet y pc 
 
